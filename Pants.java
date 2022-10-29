@@ -10,8 +10,18 @@ public class Pants {
      * TODO: Modify this method to print ASCII Art Pants
      */
     public void display() {
-        System.out.println("Pants?);
+        System.out.println("       ||   || \\//  ||  ||");
+        System.out.println("       ||__//  ||||  \\__||");
+        System.out.println("       ||      ||||      || ");
+        System.out.println("       ||      ||||      ||");
+        System.out.println("       ||      ||||      ||");
+        System.out.println("       ||      ||||      ||");
+        System.out.println("       ||      ||||      ||");
+        System.out.println("       ||_____ ||||_____ ||");
+
+ 
     }
+
 
     /* main method (for testing) */
     public static void main(String[] args) {

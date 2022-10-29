@@ -36,7 +36,7 @@ class Scarecrow {
 
     /* Main method (for testing) */
     public static void main(String[] args) {
-
+        System.out.println("hi");
         // TODO: Don't forget to update the line below if you modify the constructor
         Scarecrow myScarecrow = new Scarecrow(new Pumpkin());
 
