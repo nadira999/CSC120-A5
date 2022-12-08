@@ -12,7 +12,6 @@ public class Boot {
     public Boot(String direction) {
         this.direction = direction.toLowerCase();
     }
-
     /*
      * TODO: Modify this method to print ASCII Art Boot
      */

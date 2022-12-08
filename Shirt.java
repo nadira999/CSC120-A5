@@ -25,7 +25,6 @@ public class Shirt {
     
     }
 
-
     /* main method (for testing) */
     public static void main(String[] args) {
         Shirt myShirt = new Shirt();

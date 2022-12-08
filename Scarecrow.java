@@ -6,7 +6,6 @@
  */
 
 class Scarecrow {
-
     /* Parts of the Scarecrow
      * TODO: Uncomment remaining parts as you implement each class
      */

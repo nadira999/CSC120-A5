@@ -24,7 +24,7 @@ public class Banner {
         System.out.println("*** ~Everything will be okay~***");
         System.out.println("***~~~~~~~~~~~~***");
         System.out.println("********    ******");
-        System.out.println("                *******");
+        System.out.println("      *******");
 
     }
 
