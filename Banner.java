@@ -19,6 +19,13 @@ public class Banner {
      */
     public void display() {
         System.out.println(this.message);
+        System.out.println("****************");
+        System.out.println("***~~~~~~~~~~~~***");
+        System.out.println("*** ~Everything will be okay~***");
+        System.out.println("***~~~~~~~~~~~~***");
+        System.out.println("********    ******");
+        System.out.println("                *******");
+
     }
 
     /* main method (for testing) */
